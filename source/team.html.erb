@@ -1,0 +1,16 @@
+
+<h1 class="text-center">Our team</h1>
+
+
+<ul class="list-inline text-center">
+  <% ["me", "john"].each do |member| %>
+    <li>
+      <h3><%= member.capitalize %></h3>
+      <%= image_tag "#{member}.png", class: "img-circle avatar-large" %>
+    </li>
+  <% end %>
+  <h3 class="padded"><a href="http://www.huffingtonpost.com/">
+    <i class="fa fa-envelope"></i> yolo@huffpo.com</a>
+  </h3>
+</ul>
+
