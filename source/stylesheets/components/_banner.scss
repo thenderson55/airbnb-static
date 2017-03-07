@@ -6,16 +6,36 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: $base-font;
+  h1 {
+
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2)
+  }
+
+  p {
+    font-size: 27px;
+    font-weight: lighter;
+    margin-bottom: 50px;
+
+  }
 }
 
-.banner h1 {
-  font-size: 50px;
-  font-weight: bold;
-  text-shadow: 0px 1px rgba(0, 0, 0, 0.2)
-}
+// .banner {
+//   h1 {
 
-.banner p {
-  font-size: 27px;
-  font-weight: lighter;
-  margin-bottom: 50px;
-}
+//       font-size: 50px;
+//       font-weight: bold;
+//       text-shadow: 0px 1px rgba(0, 0, 0, 0.2)
+//   }
+
+//   p {
+//       font-size: 27px;
+//       font-weight: lighter;
+//       margin-bottom: 50px;
+
+//   }
+// }
+
+

@@ -6,13 +6,14 @@
   justify-content: flex-start;
 }
 
-#footer i {
+#footer {
+  i {
   text-decoration: none;
   font-size: 40px;
-  color: gray;
-}
-
-#footer p {
+  color: $gray-light;
+  }
+  p {
   margin-top: 17px;
-  color: gray;
+  color: $gray-light;
+  }
 }

@@ -1,0 +1,40 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-london.jpeg
+  owner_picture: me.png
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: beer.png
+  owner_picture: john.png
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+tommy:
+  owner_name: Thomas Henderson
+  picture: john.png
+  owner_picture: me.png
+  name: Tommy's home
+  summary: Meet the pan-pipe slave
+  city: Tokyo, Japan
+  wifi: false
+jude:
+  owner_name: Jude Conlon
+  picture: me.png
+  owner_picture: john.png
+  name: Jude's home
+  summary: Grotty in Jing-An
+  city: Shanghai, China
+  wifi: false
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-london.jpeg
+  owner_picture: me.png
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
